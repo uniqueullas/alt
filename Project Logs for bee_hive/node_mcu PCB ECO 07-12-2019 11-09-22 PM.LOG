@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Neti1_2 Pin=i1-3
+Removed Pin From Net: NetName=Neti1_2 Pin=NodeMCU-1-D1
+Removed Pin From Net: NetName=Neti1_2 Pin=R5-1
+Removed Pin From Net: NetName=+5 Pin=R5-2
+Removed Member From Class: ClassName=bee_hive_1 Member=R5
+Added Component: Designator=R?(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=Neti1_3 Pin=i1-3
+Added Pin To Net: NetName=Neti1_3 Pin=NodeMCU-1-D1
+Added Pin To Net: NetName=Neti1_3 Pin=R?-1
+Added Net: Name=Neti1_3
+Added Member To Class: ClassName=bee_hive_1 Member=Component C2 BKME500ELL100MF11D
+Added Member To Class: ClassName=bee_hive_1 Member=Component IC1 173950578
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1

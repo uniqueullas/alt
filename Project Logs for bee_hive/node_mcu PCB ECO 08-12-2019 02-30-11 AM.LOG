@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Added Component: Designator=*2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=bee_hive_1 Member=Component *2 mounting
+Added Member To Class: ClassName=bee_hive_1 Member=Component *3 mounting
+Added Member To Class: ClassName=bee_hive_1 Member=Component *4 mounting

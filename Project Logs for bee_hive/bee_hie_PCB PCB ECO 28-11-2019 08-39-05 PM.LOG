@@ -1,0 +1,11 @@
+Added Component: Designator=J?(*CUI_PJ-102B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? Cap2
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? PJ-102B
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? PJ-102B
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1

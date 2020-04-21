@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=A0_ip NewDesignator=A1
+Change Component Designator: OldDesignator=BR? NewDesignator=BR1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=d_io NewDesignator=d_io1
+Change Component Designator: OldDesignator=i2c NewDesignator=i1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=io? NewDesignator=io1
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=UART NewDesignator=UART1
+Change Net Name : Old Net Name=NetA0_ip_2 New Net Name=NetA1_2
+Change Net Name : Old Net Name=NetA0_ip_3 New Net Name=NetA1_3
+Change Net Name : Old Net Name=NetBR?_2 New Net Name=NetBR1_2
+Change Net Name : Old Net Name=NetBR?_3 New Net Name=NetBR1_3
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=Netd_io_1 New Net Name=Netd_io1_1
+Change Net Name : Old Net Name=Netd_io_2 New Net Name=Netd_io1_2
+Change Net Name : Old Net Name=Netd_io_3 New Net Name=Netd_io1_3
+Change Net Name : Old Net Name=Netd_io_4 New Net Name=Netd_io1_4
+Change Net Name : Old Net Name=Neti2c_2 New Net Name=Neti1_2
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC2_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC2_3
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC2_4
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC2_5
+Change Net Name : Old Net Name=NetIC?_12 New Net Name=NetIC2_12
+Change Net Name : Old Net Name=NetIC?_13 New Net Name=NetIC2_13
+Change Net Name : Old Net Name=Netio?_1 New Net Name=Netio1_1
+Change Net Name : Old Net Name=Netio?_2 New Net Name=Netio1_2
+Change Net Name : Old Net Name=Netio?_3 New Net Name=Netio1_3
+Change Net Name : Old Net Name=Netio?_4 New Net Name=Netio1_4
+Change Net Name : Old Net Name=NetK?_5 New Net Name=NetK1_5
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR11_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=IC2-16
+Added Pin To Net: NetName=NetD4_1 Pin=K1-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=IC2-15
+Added Pin To Net: NetName=NetD5_2 Pin=J5-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R10-2
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=bee_hive_1 Member=Component D4 1.5KE68CA-T
+Added Member To Class: ClassName=bee_hive_1 Member=Component D5 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component R4 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R5 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R6 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R7 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R8 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R9 MRS25000C1000FCT00
+Added Member To Class: ClassName=bee_hive_1 Member=Component R10 MRS25000C1000FCT00
+Added Member To Class: ClassName=bee_hive_1 Member=Component R11 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R13 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R14 Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R15 Res1

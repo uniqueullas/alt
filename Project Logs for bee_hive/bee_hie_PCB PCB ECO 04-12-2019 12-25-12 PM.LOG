@@ -1,0 +1,55 @@
+Change Component Comment : Designator=D? Old Comment=LED0 New Comment=5v
+Added Component: Designator=C?(CAPPRD250W50D680H1250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/420/al-kmebp-e-140701-514734.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BKME500ELL100MF11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "661-BKME500ELL100MF1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=661-BKME500ELL100MF1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPPRD250W50D680H1250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/420/al-kmebp-e-140701-514734.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BKME500ELL100MF11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "661-BKME500ELL100MF1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=661-BKME500ELL100MF1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1650W60L650D250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28724/mrs16m25.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MRS25000C1000FCT00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=VCC Pin=IC?-3
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=D?-1
+Added Pin To Net: NetName=+5 Pin=IC?-2
+Added Pin To Net: NetName=+5 Pin=IC?-4
+Added Pin To Net: NetName=+5 Pin=J?-2
+Added Pin To Net: NetName=+5 Pin=J?-3
+Added Net: Name=+5
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? BKME500ELL100MF11D
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? Cap2
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? BKME500ELL100MF11D
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 12v
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? PJ-102B
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? 0022032041
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? MRS25000C1000FCT00

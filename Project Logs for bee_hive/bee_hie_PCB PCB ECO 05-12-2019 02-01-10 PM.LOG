@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? ao_ip
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? a0_ip
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? i2c
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? MRS25000C1000FCT00

@@ -1,0 +1,9 @@
+Added Component: Designator=J?(*CUI_PJ-102B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NodeMCU-?(NodeMCU V1.0 ESP-12E)
+Add component. Clean all parameters for all variants
+Added Class: Name=bee_hive_1
+Added Class: Name=bee_hive_2
+Added Room: Name=bee_hive_1
+Added Room: Name=bee_hive_2

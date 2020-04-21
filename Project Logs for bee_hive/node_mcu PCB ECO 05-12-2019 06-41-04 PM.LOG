@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=A1 NewDesignator=A0_ip
+Change Component Designator: OldDesignator=BR1 NewDesignator=BR?
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=D4 NewDesignator=D?
+Change Component Designator: OldDesignator=D5 NewDesignator=D?
+Change Component Designator: OldDesignator=D6 NewDesignator=D?
+Change Component Designator: OldDesignator=d_io1 NewDesignator=d_io
+Change Component Designator: OldDesignator=i1 NewDesignator=i2c
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC?
+Change Component Designator: OldDesignator=io1 NewDesignator=io?
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J?
+Change Component Designator: OldDesignator=K1 NewDesignator=K?
+Change Component Designator: OldDesignator=LS1 NewDesignator=LS?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R8 NewDesignator=R?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R13 NewDesignator=R?
+Change Component Designator: OldDesignator=R14 NewDesignator=R?
+Change Component Designator: OldDesignator=R15 NewDesignator=R?
+Change Component Designator: OldDesignator=S1 NewDesignator=S?
+Change Component Designator: OldDesignator=UART1 NewDesignator=UART
+Change Net Name : Old Net Name=NetA1_2 New Net Name=NetA0_ip_2
+Change Net Name : Old Net Name=NetA1_3 New Net Name=NetA0_ip_3
+Change Net Name : Old Net Name=NetBR1_2 New Net Name=NetBR?_2
+Change Net Name : Old Net Name=NetBR1_3 New Net Name=NetBR?_3
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=Netd_io1_1 New Net Name=Netd_io_1
+Change Net Name : Old Net Name=Netd_io1_2 New Net Name=Netd_io_2
+Change Net Name : Old Net Name=Netd_io1_3 New Net Name=Netd_io_3
+Change Net Name : Old Net Name=Netd_io1_4 New Net Name=Netd_io_4
+Change Net Name : Old Net Name=Neti1_2 New Net Name=Neti2c_2
+Change Net Name : Old Net Name=NetIC2_1 New Net Name=NetIC?_1
+Change Net Name : Old Net Name=NetIC2_2 New Net Name=NetIC?_2
+Change Net Name : Old Net Name=NetIC2_3 New Net Name=NetIC?_3
+Change Net Name : Old Net Name=NetIC2_4 New Net Name=NetIC?_4
+Change Net Name : Old Net Name=NetIC2_5 New Net Name=NetIC?_5
+Change Net Name : Old Net Name=NetIC2_12 New Net Name=NetIC?_12
+Change Net Name : Old Net Name=NetIC2_13 New Net Name=NetIC?_13
+Change Net Name : Old Net Name=Netio1_1 New Net Name=Netio?_1
+Change Net Name : Old Net Name=Netio1_2 New Net Name=Netio?_2
+Change Net Name : Old Net Name=Netio1_3 New Net Name=Netio?_3
+Change Net Name : Old Net Name=Netio1_4 New Net Name=Netio?_4
+Change Net Name : Old Net Name=NetK1_5 New Net Name=NetK?_5
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR?_2

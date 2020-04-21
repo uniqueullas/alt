@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetNodeMCU-1_RX Pin=UART1-2
+Removed Pin From Net: NetName=GND Pin=UART1-4
+Added Pin To Net: NetName=Netio?_3 Pin=NodeMCU-1-RSV
+Added Pin To Net: NetName=Netio?_3 Pin=NodeMCU-1-RSV
+Added Pin To Net: NetName=GND Pin=UART1-2
+Added Pin To Net: NetName=NetNodeMCU-1_RX Pin=UART1-4
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? 100E

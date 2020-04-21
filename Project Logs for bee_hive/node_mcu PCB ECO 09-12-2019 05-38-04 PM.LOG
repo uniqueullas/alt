@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=NodeMCU-1-EN
+Added Pin To Net: NetName=NetD3_1 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=NetD3_1 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=NetD3_1 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=Netio?_4 Pin=NodeMCU-1-RSV
+Added Pin To Net: NetName=Netio?_4 Pin=NodeMCU-1-RSV

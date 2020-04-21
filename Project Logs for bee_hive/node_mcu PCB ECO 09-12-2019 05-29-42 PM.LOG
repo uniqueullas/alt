@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=IC2-16
+Added Component: Designator=io?(HDRV4W87P0X254_1X4_991X236X1155P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/022032041_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022032041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1650W60L650D250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28724/mrs16m25.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MRS25000C1000FCT00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_2 Pin=R?-1
+Added Pin To Net: NetName=NetIC2_16 Pin=IC2-16
+Added Pin To Net: NetName=NetIC2_16 Pin=R?-2
+Added Net: Name=NetIC2_16
+Added Pin To Net: NetName=Netio?_1 Pin=io?-1
+Added Pin To Net: NetName=Netio?_1 Pin=NodeMCU-1-SD2
+Added Net: Name=Netio?_1
+Added Pin To Net: NetName=Netio?_2 Pin=io?-2
+Added Pin To Net: NetName=Netio?_2 Pin=NodeMCU-1-SD3
+Added Net: Name=Netio?_2
+Added Pin To Net: NetName=Netio?_3 Pin=io?-3
+Added Pin To Net: NetName=Netio?_3 Pin=NodeMCU-1-RSV
+Added Pin To Net: NetName=Netio?_3 Pin=NodeMCU-1-RSV
+Added Net: Name=Netio?_3
+Added Pin To Net: NetName=Netio?_4 Pin=io?-4
+Added Pin To Net: NetName=Netio?_4 Pin=NodeMCU-1-RSV
+Added Pin To Net: NetName=Netio?_4 Pin=NodeMCU-1-RSV
+Added Net: Name=Netio?_4
+Added Member To Class: ClassName=bee_hive_1 Member=Component io? io
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? 100E

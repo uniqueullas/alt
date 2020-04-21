@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC Pin=IC?-1
+Added Component: Designator=IC?(173950578)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/pm/datasheet/173950578.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "173950578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-173950578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-173950578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1447817P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1447817P"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP2286W64P254L4826H735Q30N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Seeed Studio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "113990105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "713-113990105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=713-113990105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=+5 Pin=IC?-3
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component IC? 173950578
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? MRS25000C1000FCT00
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component U? 113990105

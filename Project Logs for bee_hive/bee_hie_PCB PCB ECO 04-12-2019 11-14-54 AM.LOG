@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=IC?-1
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-3
+Removed Pin From Net: NetName=GND Pin=J?-4
+Change Component Comment : Designator=D? Old Comment=LED0 New Comment=12v
+Added Component: Designator=R?(RESAD1650W60L650D250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/28724/mrs16m25.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MRS25000C1000FCT00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=594-MRS25000C1000FCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=VCC Pin=D?-1
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? Cap2
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 12v
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? PJ-102B
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? 0022032041
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1

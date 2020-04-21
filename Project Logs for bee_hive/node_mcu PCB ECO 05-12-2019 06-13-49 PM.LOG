@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=VCC Pin=D?-2
+Added Component: Designator=BR?(TO385P508X1473X1168-4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/88888/3kbp08m.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3KBP04M-E4/51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "625-3KBP04M-E4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=625-3KBP04M-E4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8116150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8116150"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOAD2902W106L900D500)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.diodes.com/assets/Datasheets/ds21503.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1.5KE68CA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-1.5KE68CA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=621-1.5KE68CA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S?(4FTH961)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/0126802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Apem"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4FTH961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "642-4FTH961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=642-4FTH961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0126802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0126802"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BR?-1
+Added Pin To Net: NetName=NetBR?_2 Pin=BR?-2
+Added Pin To Net: NetName=NetBR?_3 Pin=BR?-3
+Added Pin To Net: NetName=GND Pin=BR?-4
+Added Pin To Net: NetName=VCC Pin=D?-2
+Added Pin To Net: NetName=NetR?_2 Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=NetR?_2 Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Member To Class: ClassName=bee_hive_1 Member=Component BR? 3KBP04M-E4_51
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? 5v
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? MRS25000C1000FCT00
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component S? 4FTH961

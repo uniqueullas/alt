@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=VCC Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? Cap2
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1

@@ -1,0 +1,3 @@
+digikey: https://www.digikey.in/product-detail/en/cui-devices/PJ-102B/CP-102B-ND/281307
+data sheets: https://www.cuidevices.com/product/resource/pj-102b.pdf
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

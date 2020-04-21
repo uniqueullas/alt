@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=Ao_sel-1
+Removed Pin From Net: NetName=VCC Pin=Ao_sel-3
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=NetA1_2 Pin=K1-2
+Removed Pin From Net: NetName=NetA1_3 Pin=K1-3
+Removed Pin From Net: NetName=NetR10_2 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=NetR10_2 Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Member From Class: ClassName=bee_hive_1 Member=S1
+Change Component Comment : Designator=D4 Old Comment=1.5KE68CA-T New Comment=1n4007
+Change Component Comment : Designator=C1 Old Comment=BKME500ELL100MF11D New Comment=0.1uf
+Change Component Comment : Designator=C2 Old Comment=BKME500ELL100MF11D New Comment=0.33uf
+Change Component Comment : Designator=R1 Old Comment=MRS25000C1000FCT00 New Comment=1k
+Change Component Comment : Designator=R15 Old Comment=MRS25000C1000FCT00 New Comment=1k
+Change Component Comment : Designator=R16 Old Comment=MRS25000C1000FCT00 New Comment=1k
+Change Component Comment : Designator=R3 Old Comment=MRS25000C1000FCT00 New Comment=100E
+Change Component Comment : Designator=R2 Old Comment=MRS25000C1000FCT00 New Comment=330E
+Change Component Designator: OldDesignator=Ao_sel NewDesignator=Ao_NC
+Change component parameters: Designator = "IC2"; Footprint = "DIP794W56P254L1918H533Q16N"; UniqueID = "\EJLJXBYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70014189"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-uln2003a/70014189/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datashet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seeedstudio.com/document/pdf/ULN2003%20Datasheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00001244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ULN2003A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-ULN2003A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-ULN2003A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "6868209"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6868209"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1"; Footprint = "0476618"; UniqueID = "\NYIWCITL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hobbytronics.co.uk/datasheets/songle-12v-relay.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://docs-emea.rs-online.com/webdocs/1583/0900766b81583163.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "RS Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0476618"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Ao_NO(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S?(DIP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA1_3 Pin=Ao_NC-1
+Added Pin To Net: NetName=NetA1_2 Pin=Ao_NC-3
+Added Pin To Net: NetName=NetA1_3 Pin=Ao_NO-1
+Added Pin To Net: NetName=NetA1_2 Pin=Ao_NO-3
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=NetR10_2 Pin=S?-3
+Added Pin To Net: NetName=NetR10_2 Pin=S?-4
+Added Pin To Net: NetName=NetAo_NC_2 Pin=Ao_NC-2
+Added Pin To Net: NetName=NetAo_NC_2 Pin=K1-2
+Added Net: Name=NetAo_NC_2
+Added Pin To Net: NetName=NetAo_NO_2 Pin=Ao_NO-2
+Added Pin To Net: NetName=NetAo_NO_2 Pin=K1-3
+Added Net: Name=NetAo_NO_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=IC2-16
+Added Pin To Net: NetName=NetD4_2 Pin=K1-1
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=bee_hive_1 Member=Component Ao_NO Header 3
+Added Member To Class: ClassName=bee_hive_1 Member=Component S? SW DIP-2

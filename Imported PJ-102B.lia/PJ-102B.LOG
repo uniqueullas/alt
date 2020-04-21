@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : PJ-102B.LibPkg
+
+Section : H:\junk\PJ-102B\PJ-102B.lia
+    Section : PCB Library - PJ-102B.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PJ-102B On Line 144
+            Warning - 1 : Skipping Token attachedSymbol On Line 208
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PJ-102B.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 134
+        EndSection
+
+        Section : Generating SCH Library - PJ-102B.SchLib
+        EndSection
+    EndSection
+EndSection

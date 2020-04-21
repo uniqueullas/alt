@@ -1,0 +1,17 @@
+Change Component Comment : Designator=J? Old Comment=B4B-XH-A(LF)(SN) New Comment=0022032041
+Change component parameters: Designator = "J?"; Footprint = "HDRV4W87P0X254_1X4_991X236X1155P"; UniqueID = "\NLFKWIPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/pdm_docs/sd/022032041_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0022032041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=bee_hive_1 Member=Component C? Cap2
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component D? LED0
+Added Member To Class: ClassName=bee_hive_1 Member=Component J? 0022032041
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1
+Added Member To Class: ClassName=bee_hive_1 Member=Component R? Res1

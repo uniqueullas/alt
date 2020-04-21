@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [bee_hive.PrjPcb]
+   Generated File[node_mcu-Plated.TXT]
+   Generated File[node_mcu-NonPlated.TXT]
+   Generated File[node_mcu.DRL]
+   Generated File[node_mcu-BoardEdgeRout.TXT]
+   Generated File[node_mcu.LDP]
+   Generated File[node_mcu.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 05:00:00 PM On 10-12-2019

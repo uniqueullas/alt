@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : B4B-XH-A_LF__SN_.LibPkg
+
+Section : F:\altium_shared_docs\bee_hive\B4B-XH-A_LF__SN_\B4B-XH-A_LF__SN_.lia
+    Section : PCB Library - B4B-XH-A_LF__SN_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token B4B-XH-A(LF)(SN) On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 200
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - B4B-XH-A_LF__SN_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - B4B-XH-A_LF__SN_.SchLib
+        EndSection
+    EndSection
+EndSection

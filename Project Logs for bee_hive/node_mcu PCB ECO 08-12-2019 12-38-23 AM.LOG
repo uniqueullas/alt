@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Neti1_3 Pin=NodeMCU-1-D1
+Removed Pin From Net: NetName=Neti1_2 Pin=NodeMCU-1-D2
+Added Pin To Net: NetName=Neti1_2 Pin=NodeMCU-1-D1
+Added Pin To Net: NetName=Neti1_3 Pin=NodeMCU-1-D2
+Added Member To Class: ClassName=bee_hive_1 Member=Component R5 Res1
